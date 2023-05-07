@@ -1,28 +1,13 @@
 {
-  "name": "______",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/nexusNw/Gojo-Satoru",
-  "logo": "https://images.app.goo.gl/edsMY9Y8AaadAcJL9",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-            "url": "https://github.com/yespark/heroku-imagemagick-buildpack"
-        },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
-  ],
-   "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "free"
-        }
-    }
-}
 
+  "name": "قول شكرا لشينوبو",
+
+  "description": "Customizable WhatsApp Bot",
+
+  "repository": "https://github.com/Raizel-2023/Gojo-Satoru",
+
+  "logo": "https://maykaworld.com/img/other/C4/demon-slayer-season-3-s-nsfw-mitsuri-scene-gets-strong-fan-reactions-1.jpg",
+
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"]
+
+}
