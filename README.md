@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://drive.google.com/file/d/11LjnrMvi4XBEDBUVxagSVyjUhR2wFUQz/view?pli=1" alt="nz" width="350"/>
+<img src="[https://drive.google.com/file/d/11LjnrMvi4XBEDBUVxagSVyjUhR2wFUQz/view?pli=1](https://drive.google.com/file/d/11LjnrMvi4XBEDBUVxagSVyjUhR2wFUQz/view?usp=drivesdk)" alt="nz" width="350"/>
 </p>
 
 ## Gojo-Satoru
